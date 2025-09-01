@@ -1,13 +1,12 @@
-ritwik-rai/README.md
 
 👋 Welcome to my profile! I'm RITWIK RAI, a versatile professional:
 
-🌐 Full Stack Web Developer
-💡 Problem Solver
-💡 Passionate about building scalable web apps and solving algorithmic problems.  
-🔭 Currently working on: CODECRAFT--A AI POWERED CODING PLATFORM (JUST LIKE LEETCODE/GFG) 
-🌱 Learning: Web Development, System Design & DevOps 
-💬 Ask me about: MERN, JavaScript, DSA (C/C++/JS/JAVA)
+-🌐 Full Stack Web Developer
+-💡 Problem Solver
+-💡 Passionate about building scalable web apps and solving algorithmic problems.  
+-🔭 Currently working on: CODECRAFT--A AI POWERED CODING PLATFORM (JUST LIKE LEETCODE/GFG) 
+-🌱 Learning: Web Development, System Design & DevOps 
+-💬 Ask me about: MERN, JavaScript, DSA (C/C++/JS/JAVA)
 
 🛠️ Skills
 - **Languages**: C/C++, Java, JavaScript  
